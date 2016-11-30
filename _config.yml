@@ -5,7 +5,7 @@ welcome_message: Welcome to my World
 description: 你好，我是 ChenTian，是个程序员。
 creator: <a href="http://www.GcsSloop.com">@GcsSloop</a>
 
-url: "http://www.gcssloop.com"
+#url: "http://www.gcssloop.com"
 
 permalink: /:categories/:title
 
@@ -23,9 +23,9 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: GitHub,     in_site: false,  description: GcsSloop's GitHub,    url: 'https://github.com/GcsSloop'}
+    - {title: GitHub,     in_site: false,  description: ChenTian's GitHub,    url: 'https://github.com/ChenTianSaber'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
-    - {title: 关于,        in_site: true,  description: 关于作者 GcsSloop,       url: '/info/about'}
+    - {title: 关于,        in_site: true,  description: 关于作者 ChenTian,       url: '/info/about'}
     
 
 
@@ -40,18 +40,18 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: GcsSloop
+    disqus: ChenTian
     # duoshuo:
 # Social
 social:
-    weibo: GcsSloop
-    github: GcsSloop
-    twitter: GcsSloop
+    weibo: ChenTian
+    github: ChenTian
+    twitter: ChenTian
     rss: /feed.xml
-    mail: GcsSloop@gmail.com
+    mail: ChenTianSaber@163.com
     copyright: http://choosealicense.online
 
 # Google Analytics
-ga:
-    id: UA-82493667-1
-    host: www.gcssloop.com
+#ga:
+#    id: UA-82493667-1
+#    host: www.gcssloop.com
