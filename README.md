@@ -1,13 +1,14 @@
-#此博客拷贝自GcsSloop:https://github.com/GcsSloop/Gcs-Vno-Jekyll
+##前言
+此博客模板来自GcsSloop: [原作者GitHub](https://github.com/GcsSloop/Gcs-Vno-Jekyll)
 # Gcs-Vno-Jekyll
 
 基于 Jekyll 的个人博客主题。
 
 ## 样式预览
 
-![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f9pvpcwm0rj313y0maade.jpg)
+![](http://ww2.sinaimg.cn/mw690/e21cb47ejw1faa2wg1y05j21kw0wyh24.jpg)
 
-### [点击这里查看实际部署效果](http://www.gcssloop.com/)
+### [点击这里查看实际部署效果](https://chentiansaber.github.io)
 
 ## 使用方法
 
@@ -17,7 +18,10 @@
 
 3.文章应放在 `_posts` 目录下，并按照 `year-month-day-filename.md` 的格式命名。
 
-4.配置文件为 `_config.yml`， 这个就不用多说了吧。
+4.配置文件为 `_config.yml`
+
+5.更多关于jekyll的介绍可以查看[这里](http://jekyll.com.cn/docs/home/)
+
 
 ## 可选功能
 
@@ -65,8 +69,8 @@ redirect_from:
 为了增加你博文被搜索到的概率，可以考虑使用 SEO 优化，我定义了两个属性，`keywords` 和 `excerpt` ：
 
 ``` yml
-keywords: GcsSloop, gcssloop
-excerpt: 我是 GcsSloop， 一名生活在2.5次元的魔法师，平时研究一下魔法，做一些魔法卷轴，也会把一些研究成果贡献出来，以帮助新入门的魔法师更快速的成长为高级魔法师。点击此处查看我公布的魔法研究成果。
+keywords: ChenTian, chentian
+excerpt: 我是 ChenTian， 从α世界线跳跃而来，是一个程序员。
 ```
 
 **关于文章开头常用的属性示例可以参考 `1970-01-01-about.md` 文件。**
