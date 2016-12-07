@@ -70,7 +70,7 @@ redirect_from:
 
 ``` yml
 keywords: ChenTian, chentian
-excerpt: 我是 ChenTian， 从α世界线跳跃而来，是一个程序员。
+excerpt: 我是程序员， 是个陈添。
 ```
 
 **关于文章开头常用的属性示例可以参考 `1970-01-01-about.md` 文件。**
