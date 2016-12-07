@@ -1,8 +1,8 @@
 # Basic
 title: ChenTian
-subtitle: EL PSY CONGROO.
+subtitle: EL PSY CONGROO
 welcome_message: Welcome to my World
-description: 你好，我是 ChenTian，是个程序员。
+description: 你好，我是程序员，是个陈添
 creator: <a href="https://chentiansaber.github.io">@ChenTian</a>
 
 url: "https://chentiansaber.github.io"
@@ -44,8 +44,8 @@ comment:
     # duoshuo:
 # Social
 social:
-    weibo: ChenTian
-    github: ChenTian
+    weibo: http://weibo.com/3793532030/profile?topnav=1&wvr=6&is_all=1
+    github: https://github.com/ChenTianSaber
     #twitter: ChenTian
     #rss: /feed.xml
     mail: ChenTianSaber@qq.com
